@@ -71,8 +71,8 @@ Spring AI provides Spring Boot auto-configuration for the Azure OpenAI Chat Clie
     spring.ai.azure.openai.embedding.options.deployment-name=text-embedding-ada-002
   
   ```
-- [Azure chat properties](https://docs.spring.io/spring-ai/reference/api/chat/azure-openai-chat.html#_auto_configuration)
-- [Azure Embedding properties](https://docs.spring.io/spring-ai/reference/api/embeddings/azure-openai-embeddings.html#_auto_configuration)
+- [Complete Azure chat properties](https://docs.spring.io/spring-ai/reference/api/chat/azure-openai-chat.html#_auto_configuration)
+- [Complete Azure Embedding properties](https://docs.spring.io/spring-ai/reference/api/embeddings/azure-openai-embeddings.html#_auto_configuration)
 
 ### Azure Chat Models API 
 
