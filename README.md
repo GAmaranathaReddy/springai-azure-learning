@@ -124,5 +124,22 @@ EmbeddingResponse embeddingResponse = embeddingModel.call(
 
 ```
 
+## Start Application
 
+To run the application, run the following command in a terminal window (in the complete) directory:
 
+### Running on command line
+
+```
+./mvnw spring-boot:run
+```
+### Running on IDE
+Right click on project , select on run icon slick on spring boot application
+![Run Springboot](images/springbootrun.jpeg)
+
+## Swagger UI
+
+Once enter url in broswer automatically display swagger page
+![SwaggerUI](images/hanadbswagger.jpeg)
+
+Swagger UI Youtube Demo link : [SwaggerUI Demo](https://youtu.be/xI9pA4p6u3Y)
