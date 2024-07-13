@@ -142,4 +142,4 @@ Right click on project , select on run icon slick on spring boot application
 Once enter url in broswer automatically display swagger page
 ![SwaggerUI](images/azure-learning.png)
 
-Swagger UI Youtube Demo link : [SwaggerUI Demo](https://youtu.be/xI9pA4p6u3Y)
+Swagger UI Youtube Demo link : [SwaggerUI Demo](https://youtu.be/zHe94-D_0Jo)
