@@ -1,5 +1,3 @@
-<h1 align="center">SpringAI VectorDB Learning</h1>
-
 <h1 align="center">SpringAI Azure Learning</h1>
 <p align="center"> 
     <img src="https://www.slightinsight.com/wp-content/uploads/2024/01/springai.jpg"
