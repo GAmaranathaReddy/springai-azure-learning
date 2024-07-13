@@ -140,6 +140,6 @@ Right click on project , select on run icon slick on spring boot application
 ## Swagger UI
 
 Once enter url in broswer automatically display swagger page
-![SwaggerUI](images/hanadbswagger.jpeg)
+![SwaggerUI](images/azure-learning.png)
 
 Swagger UI Youtube Demo link : [SwaggerUI Demo](https://youtu.be/xI9pA4p6u3Y)
